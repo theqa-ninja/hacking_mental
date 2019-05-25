@@ -1,0 +1,4 @@
+# Tan added
+.byebug_history
+*.log
+/log
