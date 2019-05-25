@@ -1,0 +1,1 @@
+gem install bundler && bundle install && yarn install && bundle update && bundle exec rails db:migrate && bundle exec rake db:seed && bundle exec rails s
